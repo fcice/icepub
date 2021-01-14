@@ -1,3 +1,3 @@
 # icepub
 
-## repository to share graphics files and other analytics with fcgov OPENDATA portal
+## public repository for OPENDATA and other public data educational collaboration efforts
