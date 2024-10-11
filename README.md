@@ -1,6 +1,6 @@
 # ICEPUB - public repository
 
-Assist with public data/data analysis sharing 
+Assist with picture sharing  
 
 ## Fort Collins OPENDATA Portal
 
